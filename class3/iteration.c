@@ -9,6 +9,7 @@ int main(){
     scanf("%d",&height);
 
     draw(height);
+    printf("hackimes gordo");
 }
 
 void  draw(int n){
