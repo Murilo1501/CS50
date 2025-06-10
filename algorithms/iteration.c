@@ -6,7 +6,7 @@ int main(){
     int height; 
 
     printf("type a height :");
-    scanf("%d",&height);
+    scanf("%d",&heights);
 
     draw(height);
 }
